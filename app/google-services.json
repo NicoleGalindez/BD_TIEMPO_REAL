@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423413644134",
+    "project_id": "bdrealtimeprueba",
+    "storage_bucket": "bdrealtimeprueba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423413644134:android:c8a0006ce6f1883520e6a7",
+        "android_client_info": {
+          "package_name": "com.example.pruebabdrealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaLqv97sTMJFCLehBs-3kw-SoAydtsInU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
